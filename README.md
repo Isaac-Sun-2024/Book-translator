@@ -1,5 +1,5 @@
 # Book-translator
-possibly the best program I have written to date: A program to translate images by selection, like google lens but more accurate
+A program to translate images by selection, like google lens but more accurate
 
 run the GUIs, or test.py not main/main-unstable.
 
